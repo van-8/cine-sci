@@ -1,6 +1,9 @@
 # Cine-sci
 ## Guidelines for cinematic science stories with charts, citations, &amp; consensus
 
+###### Collaborators: Prof Lisa F Barrett (Northeastern), Joseph Friedman, PhD (Northeastern), Veritasium (Derek Mueller), NASA
+
+
 ### Research Motivation
 1. Humans evolved story-telling to share units of knowledge with each other
 2. Memorable stories are carefully crafted, narratively engaging, and visually beautiful
