@@ -21,7 +21,7 @@
 
 ### Broader Impacts
 1. Frameworks are powerful. Just as Hollywood's Save-the-Cat and Silicon Valley's Agile accelerate these industries, we aim to create one for informal STEM content.
-2. Inclusiveness for scientists around the world. 
-3. Inclusiveness for more languages in science content. Chinese, Spanish, Portuguese, French, and Japanese to reach more populations.
-4. Inclusiveness for different cultural groups. Brat James is woman of color dancer/choreographer from the Bronx.
-4. Inclusiveness for deaf/hard-of-hearing community. Create signs for neuroscience terms.
+2. Inclusiveness for scientists around the world. Vânia Teóflio is from Cape Verde.
+3. Inclusiveness for different cultural groups. Brat James is woman of color dancer/choreographer from the Bronx.
+4. Inclusiveness for more languages in science content. Chinese, Spanish, Portuguese, French, and Japanese to reach more populations.
+5. Inclusiveness for deaf/hard-of-hearing community. Create signs for neuroscience terms.
