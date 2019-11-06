@@ -1,5 +1,5 @@
 # Cine-sci
-## Guidelines for cinematic science stories with charts, citations, &amp; consensus
+## Cinematic science: charts, citations, &amp; consensus
 
 ###### Collaborators: Prof Lisa F Barrett (Northeastern), Joseph Friedman, PhD (Northeastern), Veritasium (Derek Mueller), NASA
 
