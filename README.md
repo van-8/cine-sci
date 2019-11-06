@@ -28,3 +28,13 @@
 3. Inclusiveness for different cultural groups. Brat James is woman of color dancer/choreographer from the Bronx.
 4. Inclusiveness for more languages in science content. Chinese, Spanish, Portuguese, French, and Japanese to reach more populations.
 5. Inclusiveness for deaf/hard-of-hearing community. Create signs for neuroscience terms.
+
+## Factors to consider
+
+Flex
+airbrushing
+invisible labor
+Mystery
+Consensus
+Memes
+
